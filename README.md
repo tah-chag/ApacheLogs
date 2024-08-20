@@ -1,4 +1,4 @@
-Hello there!
+*Hello there!*
 
 These are Apache Access and Error Logs used for the sole purpose for practice to parse through the logs
 You can either use Linux Command Line to parse through the Logs or you can make use of WSL nad CYGWIN
